@@ -1,0 +1,10 @@
+body {
+  justify-content: center;
+  align-items: center;
+}
+.movies {
+  padding-left: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
